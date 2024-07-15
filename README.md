@@ -11,7 +11,7 @@
 ## 팀원 소개
 |노성균|박유진|
 |----|---|
-|![image](https://github.com/user-attachments/assets/18ba9a51-dc6c-40f3-bd2a-7f35ee779b3c|![image](https://github.com/user-attachments/assets/71b82c36-cc30-4b2f-924e-388dd54ab218)|
+|![image](https://github.com/user-attachments/assets/b6949782-5f9e-4905-8e6f-96d102063c53)|![image](https://github.com/user-attachments/assets/71b82c36-cc30-4b2f-924e-388dd54ab218)|
 |프론트엔드|프론트엔드|
 
 <br>
