@@ -9,10 +9,10 @@
 <br>
 
 ## 팀원 소개
-|팀원|역할|
+|노성균|박유진|
 |----|---|
-|노성균|로그인/회원가입 개발<br>메인페이지 개발<br>상세페이지 개발<br>모집글 생성페이지 개발<br>랭킹 페이지 개발|
-|박유진|마이페이지 개발<br>스터디그룹페이지 개발<br>일정관리 캘린더 구현<br>공지사항 구현<br>주차별 스터디 관리 구현|
+|![image](https://github.com/user-attachments/assets/18ba9a51-dc6c-40f3-bd2a-7f35ee779b3c|![image](https://github.com/user-attachments/assets/71b82c36-cc30-4b2f-924e-388dd54ab218)|
+|프론트엔드|프론트엔드|
 
 <br>
 
