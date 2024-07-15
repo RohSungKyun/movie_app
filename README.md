@@ -9,7 +9,7 @@
 <br>
 
 ## 팀원 소개
-|노성균|박유진|
+|[노성균](https://github.com/RohSungKyun)|[박유진](https://github.com/pkyujin)|
 |----|---|
 |<img src="https://github.com/user-attachments/assets/b6949782-5f9e-4905-8e6f-96d102063c53" width=200px height=230px />|<img src="https://github.com/user-attachments/assets/16442230-75a2-4e84-8d8d-0fb12a2663e2" width=200px height=230px/>|
 |프론트엔드|프론트엔드|
